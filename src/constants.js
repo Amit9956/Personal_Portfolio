@@ -203,8 +203,8 @@ export const SkillsInfo = [
         "A fully responsive E-Commerce website built with modern web technologies to ensure smooth navigation, product filtering, secure checkout, and dynamic user experience.",
       image: ecommLogo,
       tags: ["React JS",  "HTML", "Tailwind CSS", "JavaScript"],
-      github: "https://github.com/Sameerpriyadarshi/ecommerce-website",
-     
+      github: "https://github.com/Amit9956/LynkWebSite",
+      webapp:"https://lynk-web-site.vercel.app/"
     },
     
     {
